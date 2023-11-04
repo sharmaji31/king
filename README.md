@@ -1,2 +1,2 @@
 # king
-#/practical.html/images.JPG
+/practical.html/images.JPG
